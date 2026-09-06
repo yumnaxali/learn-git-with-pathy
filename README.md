@@ -5,3 +5,7 @@
 <p align="center">
 Creating meaningful digital experiences through design & technology ✨
 </p>
+
+<p align="center">
+  <img src="https://pin.it/5SX95ufzY" width="300">
+</p>
